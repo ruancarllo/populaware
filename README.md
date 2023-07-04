@@ -11,5 +11,5 @@ To perform this analysis, access a user's Instagram account page on your compute
 You can also type the [Uniform Resource Identifier](https://wikipedia.org/wiki/URI) `javascript:` in your search bar and paste the script directly on the page to run.
 
 ```js
-	javascript: # Paste the script here
+javascript: # Paste the script here
 ```
